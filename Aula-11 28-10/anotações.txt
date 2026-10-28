@@ -1,0 +1,26 @@
+Funções:
+    declarando:
+        def nome():
+            comandos
+
+    chamando:
+        nome()
+
+    Possibilidades de retorno:
+        print na propria função. -> resultado se perde
+        return resultado e atribui a uma variavel na main -> resultado reutilizavel
+
+    função com parametros
+
+    def soma(a, b):
+        return a + b
+
+    def main():
+        x=3
+        t=4
+
+        res = soma(x, y)
+
+        print(res)    
+    
+    main()
