@@ -1,0 +1,23 @@
+
+print por indice da string 
+    print string[0] imprime primeira letra
+
+    indice negativo:
+    print string[-1]imprime ultima letra
+
+separar palavras:
+    stringSeparada = string.split()
+
+maiusculo ou minusculo
+
+    print(string.upper())
+    print(string.lower())
+
+tamanho da string:
+
+    tamanho = len(string)
+
+imprimir elemento x vezes:
+
+    print("-"*tamanho)
+

@@ -1,0 +1,63 @@
+Organização de dados
+
+string: "dado" > s[o], s[1]...
+
+lista -> array -> vetor -> lista é mutavel, diferente de uma tupla que é imutavel
+varios tipos -> vetor de int, de string, de char, de float, etc.
+
+ex:
+
+    aluno = ["ramon", "samuel", "vinicius", ...]
+                0        1          2       ... n
+
+    aluno[n]
+
+lista dentro de outra lista: (matriz)
+
+    lista1 = [1, 2, 3]
+    lista2 = [4, 5, 6]
+    lista3 = [7, 8, 9]
+    lista = [lista1, lista2, lista3]
+
+    print(lista[0]) -> 1, 2, 3
+    print(lista[0][1]) -> 2
+
+tamanho lista:
+
+    len() -> len(aluno) --> retorna tamanho da lista aluno
+
+incluir itens em uma lista:
+    lista1.append(4) -> lista1 = [1, 2, 3, 4] | Adiciona no final da lista
+
+    lista1.insert(0, 0) -> lista1 = [0, 1, 2, 3, 4] | Adiciona em qualquer lugar e reorganiza a lista
+            (indice, valor)
+
+Removendo itens de uma lista
+
+    lista1.remove(3) -> lista1 = [0, 1, 2, 4] 
+
+----------------------------------------------------------------------------------------------------------
+
+Tuplas -> lista imutavel  -> ex uso: dias da semana, meses, etc.
+obs: Tupla é mais leve que uma lista
+
+    lista[]
+    tupla()
+
+indices:
+
+    tupla(i)
+
+    tupla(1, 2, 3, 4)
+
+    print(tupla(1)) = 2
+
+
+
+
+
+
+
+
+
+

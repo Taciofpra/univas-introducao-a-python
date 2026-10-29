@@ -1,0 +1,1 @@
+""" 3 - Crie uma lista com 8 elementos e imprima o tamanho dela na tela """

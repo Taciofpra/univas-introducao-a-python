@@ -1,0 +1,1 @@
+""" 2 - Crie uma lista com 5 nomes de frutas e imprima as duas primeiras frutas na tela """

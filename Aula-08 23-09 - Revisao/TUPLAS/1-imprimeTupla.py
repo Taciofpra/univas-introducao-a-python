@@ -1,0 +1,1 @@
+""" 1 - Faça um programa que imprima o conteúdo de uma tupla de 5 números inteiros na tela """

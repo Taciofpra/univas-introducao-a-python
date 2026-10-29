@@ -1,0 +1,1 @@
+""" 2 - Fala um programa que imprima os 3 primeiros números de uma tupla de 5 elementos. """

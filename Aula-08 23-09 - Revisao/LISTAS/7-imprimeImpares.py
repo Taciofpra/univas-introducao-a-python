@@ -1,0 +1,1 @@
+""" 7 - Crie uma lista com 6 nomes e imprima os nomes que estão nas posições impares da lista """

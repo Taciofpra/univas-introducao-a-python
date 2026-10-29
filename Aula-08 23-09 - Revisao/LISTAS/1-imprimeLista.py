@@ -1,0 +1,1 @@
+""" 1 - Crie uma lista com 10 números inteiros e imprima na tela """

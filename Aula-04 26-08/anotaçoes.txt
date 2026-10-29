@@ -1,0 +1,12 @@
+Estrutura de decisão
+
+if else
+elseif  -> elif
+switch case
+
+
+while
+
+do while
+
+for

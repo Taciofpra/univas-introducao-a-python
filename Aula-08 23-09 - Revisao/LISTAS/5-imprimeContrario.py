@@ -1,0 +1,1 @@
+""" 5 - Crie uma lista com 6 elementos e imprima de trás para frente na tela """
